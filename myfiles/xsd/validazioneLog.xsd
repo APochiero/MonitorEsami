@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="monitorEsami.LogXMLAttivita">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name = "ipClient" type = "xs:string" />
+            <xs:element name = "nomeApplicazione" type = "xs:string"/>
+            <xs:element name = "timestamp" type = "xs:string"/>
+            <xs:element ref = "evento"/>
+        </xs:sequence>
+        </xs:complexType>
+</xs:element>
+
+<xs:element name="evento">
+  <xs:simpleType>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Avvio"/>
+      <xs:enumeration value="Ricerca"/>
+      <xs:enumeration value="Azzera"/>
+      <xs:enumeration value="NodoGrafico"/>
+      <xs:enumeration value="RigaTabella"/>
+      <xs:enumeration value="Termine"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+</xs:schema>

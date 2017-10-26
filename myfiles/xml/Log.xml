@@ -1,0 +1,601 @@
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:15:16 CEST 2017</timestamp>
+  <evento>Avvio</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:15:21 CEST 2017</timestamp>
+  <evento>Ricerca</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:15:22 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:15:23 CEST 2017</timestamp>
+  <evento>NodoGrafico</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:15:26 CEST 2017</timestamp>
+  <evento>Termine</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:20:05 CEST 2017</timestamp>
+  <evento>Avvio</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:20:09 CEST 2017</timestamp>
+  <evento>Termine</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:00 CEST 2017</timestamp>
+  <evento>Avvio</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:05 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:08 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:16 CEST 2017</timestamp>
+  <evento>Ricerca</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:23 CEST 2017</timestamp>
+  <evento>Ricerca</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:25 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:26 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:27 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:29 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:30 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:32 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:33 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:34 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:37 CEST 2017</timestamp>
+  <evento>NodoGrafico</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:37 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:38 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:21:40 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:18 CEST 2017</timestamp>
+  <evento>Ricerca</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:19 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:20 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:27 CEST 2017</timestamp>
+  <evento>Ricerca</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:28 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:29 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:30 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:31 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:31 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:32 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:33 CEST 2017</timestamp>
+  <evento>NodoGrafico</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:35 CEST 2017</timestamp>
+  <evento>NodoGrafico</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:36 CEST 2017</timestamp>
+  <evento>NodoGrafico</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:37 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:38 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:39 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:39 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:40 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:41 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:42 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:43 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:22:48 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:23:10 CEST 2017</timestamp>
+  <evento>Ricerca</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:23:13 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Tue Jul 25 09:23:18 CEST 2017</timestamp>
+  <evento>Termine</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:40:56 CEST 2017</timestamp>
+  <evento>Avvio</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:24 CEST 2017</timestamp>
+  <evento>Avvio</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:30 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:30 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:31 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:32 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:32 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:32 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:32 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:34 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:34 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:35 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:36 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:39 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:40 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:41 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:41 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:41 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:42 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Wed Jul 26 09:41:45 CEST 2017</timestamp>
+  <evento>Termine</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:24:42 CEST 2017</timestamp>
+  <evento>Avvio</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:25:09 CEST 2017</timestamp>
+  <evento>Avvio</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:25:51 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:07 CEST 2017</timestamp>
+  <evento>NodoGrafico</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:22 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:39 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:39 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:40 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:40 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:40 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:41 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:41 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:41 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:42 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:26:42 CEST 2017</timestamp>
+  <evento>RigaTabella</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Sat Sep 30 14:27:01 CEST 2017</timestamp>
+  <evento>Termine</evento>
+</monitorEsami.LogXMLAttivita>
+<?xml version="1.0" encoding="UTF-8"?>
+<monitorEsami.LogXMLAttivita>
+  <ipClient>localhost</ipClient>
+  <nomeApplicazione>MonitorEsami</nomeApplicazione>
+  <timestamp>Fri Oct 06 17:37:18 CEST 2017</timestamp>
+  <evento>Avvio</evento>
+</monitorEsami.LogXMLAttivita>

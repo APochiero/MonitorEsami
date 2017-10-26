@@ -1,0 +1,19 @@
+<!-- FILE DI CONFIGURAZIONE -->
+<monitorEsami.ConfigurazioneXMLParametri>
+  <coloreBackground>
+    <red>230</red>
+    <green>230</green>
+    <blue>230</blue>
+    <opacity>1.0</opacity>
+  </coloreBackground>
+  <coloreSecondario>
+    <red>0</red>
+    <green>0</green>
+    <blue>230</blue>
+    <opacity>1.0</opacity>
+  </coloreSecondario>
+  <dimensioneFont>15</dimensioneFont>
+  <ipClient>localhost</ipClient>
+  <ipServer>localhost</ipServer>
+  <portaServerLog>8080</portaServerLog>
+</monitorEsami.ConfigurazioneXMLParametri>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="monitorEsami.ConfigurazioneXMLParametri">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref = "coloreBackground" />
+				<xs:element ref = "coloreSecondario" />
+				<xs:element name = "dimensioneFont" type = "fontSize"/>
+				<xs:element name = "ipClient" type = "xs:string" />
+				<xs:element name = "ipServer" type = "xs:string" />
+				<xs:element name = "portaServerLog" type = "xs:integer" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name = "coloreBackground">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name = "red" type = "rgb"/>
+				<xs:element name = "green" type = "rgb" />
+				<xs:element name = "blue" type = "rgb" />
+				<xs:element name = "opacity" type = "opacityType"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name = "coloreSecondario">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name = "red" type = "rgb"/>
+				<xs:element name = "green" type = "rgb" />
+				<xs:element name = "blue" type = "rgb" />
+				<xs:element name = "opacity" type = "opacityType"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:simpleType name = "rgb"> 
+		 <xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="255"/>
+		</xs:restriction>
+	</xs:simpleType>			
+	
+	<xs:simpleType name = "opacityType"> 
+		 <xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="1"/>
+		</xs:restriction>
+	</xs:simpleType>	
+
+	<xs:simpleType name = "fontSize"> 
+		 <xs:restriction base="xs:integer">
+			<xs:minInclusive value="8"/>
+			<xs:maxInclusive value="20"/>
+		</xs:restriction>
+	</xs:simpleType>	
+	
+</xs:schema>
